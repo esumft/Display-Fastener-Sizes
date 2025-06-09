@@ -1,6 +1,6 @@
 # Display Fastener Sizes (unofficial Autodesk Fusion Add-in)
 
-**Display Fastener Sizes** is an Autodesk Fusion add-in that visually identifies and color-codes fasteners (such as screws and bolts) in your design based on their major diameter. It also generates a color key palette for quick reference.
+**Display Fastener Sizes** is an Autodesk Fusion add-in that visually identifies and color-codes fasteners from the inserted from the Fusion fastener library (such as screws and bolts) in your design based on their major diameter. It also generates a color key palette for quick reference.
 
 This is intended to help with design reviews where assessing a products design for assembly efficiency can be enhanced by limiting the variations of and grouping fastener types and sizes.
 
