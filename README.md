@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/b4e84483-41ed-423b-988f-620217e4fbb5
 
 ## License
 
-MIT License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
