@@ -168,9 +168,8 @@ def command_created(args: adsk.core.CommandCreatedEventArgs):
         graphics = root.customGraphicsGroups.add()
 
         # List of metric sizes (add more as needed)
-        metric_sizes = [
-            "M1", "M1.2", "M1.4", "M1.6", "M2", "M2.5", "M3", "M3.5", "M4", "M5", "M6", "M8", "M10", "M12", "M16", "M20", "M24", "M30", "M36", "M42", "M48", "M56", "M64"
-            ]
+        # Generate metric sizes from M0.1 to M100 in 0.1 increments
+        metric_sizes = [f"M{size:.1f}".rstrip('0').rstrip('.') for size in [x * 0.1 for x in range(1, 1001)]]
 
         imperial_sizes = [
             "1-64", "2-56", "3-48", "4-40", "5-40", "6-32", "8-32", "10-24", "10-32",
