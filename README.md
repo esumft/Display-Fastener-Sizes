@@ -18,6 +18,7 @@ https://github.com/user-attachments/assets/b4e84483-41ed-423b-988f-620217e4fbb5
 - **Imperial fastener type support**
 
 ### Future releases
+- **Child component support**
 - **Other fastener types**: Rivets, Washers, Nuts
 - **Fastener groups**
 - **Tool accessiblity analysis**
