@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/b4e84483-41ed-423b-988f-620217e4fbb5
 2. **Start Autodesk Fusion**
 3. **Open the Add-ins dialog under the Utilties tab** (`Utilities` > `Scripts & Add-Ins`).
 4. **Select the '+' from the top of the menu** and select "Script or add-in from deivce".
-5. **Find the "FastenerVisualiser"** directory and click **Open**.
+5. **Find the "Display Fastener Sizes"** directory and click **Open**.
 6. **Find "Display Fastener Sizes" in the list and toggle **"Run"** on. **(Recommended: Check "Run on Startup" so that the Add-In loads when you open Fusion)**
 
 ---
